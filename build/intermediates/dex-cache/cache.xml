@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Msuta\AndroidStudioProjects\Collapsing_Toolbar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Msuta\AndroidStudioProjects\Collapsing_Toolbar\app\build\intermediates\pre-dexed\debug\classes-ae221b94f32360aa3285cc0f59fc03915107cbad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Msuta\AndroidStudioProjects\Collapsing_Toolbar\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="C:\Users\Msuta\AndroidStudioProjects\Collapsing_Toolbar\app\build\intermediates\pre-dexed\debug\classes-c060ddcfa300eecd584e96224a9b293c91096a72.jar" />
+    </item>
+    <item
+        jar="C:\Users\Msuta\AndroidStudioProjects\Collapsing_Toolbar\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Msuta\AndroidStudioProjects\Collapsing_Toolbar\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-fbbda3ee49bd43f30972c467f3991c5c3c0c6731.jar" />
+    </item>
+    <item
+        jar="C:\Users\Msuta\AndroidStudioProjects\Collapsing_Toolbar\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Msuta\AndroidStudioProjects\Collapsing_Toolbar\app\build\intermediates\pre-dexed\debug\classes-2773d337562e2a0308d9539bb377b671da877c2e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Msuta\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Msuta\AndroidStudioProjects\Collapsing_Toolbar\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-d1d7ffe2a8aa7729290b74c99b7e98d9627d1c9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Msuta\AndroidStudioProjects\Collapsing_Toolbar\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\Msuta\AndroidStudioProjects\Collapsing_Toolbar\app\build\intermediates\pre-dexed\debug\classes-55c66b1b0be36a8859e00e71e7ee646872b973d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Msuta\AndroidStudioProjects\Collapsing_Toolbar\app\build\intermediates\exploded-aar\com.android.support\palette-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="060b30a619b8d3ba053e1d7dc08b3fdf0dd81530">
+        <dex dex="C:\Users\Msuta\AndroidStudioProjects\Collapsing_Toolbar\app\build\intermediates\pre-dexed\debug\classes-5512cb1bb28d7f25ee3c8dbc36793a8619a820ac.jar" />
+    </item>
+
+</items>
